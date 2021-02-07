@@ -19,7 +19,7 @@ Hello there!👋 I am a graduate student at the University of South Florida majo
                      Driven by data
                      Motivated by quality
 
-What motivates me is the opportunity to derive meaningful insights from data, build quality solutions, and modernize & optimize business processes. My 1 year of experience has taught me how to appreciate data and how it can be used to help businesses thrive. I have gone above and beyond the client, expectations to deliver results and help myself grow as an individual.
+What motivates me is the opportunity to derive meaningful insights from data, build quality solutions, and modernize & optimize business processes. My 2years of experience has taught me how to appreciate data and how it can be used to help businesses thrive. I have gone above and beyond the client, expectations to deliver results and help myself grow as an individual.
 
 
 ### 💼 My experiences and core competencies: 
