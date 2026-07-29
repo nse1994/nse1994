@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=440&lines=Building+AI+agents+%F0%9F%A4%96;Taking+demos+%E2%86%92+production+%F0%9F%9A%A2;Ex-data-scientist%2C+fully+agent-pilled;Shipping+from+sunny+Tampa+%F0%9F%8C%B4" alt="Typing animation: Building AI agents / Taking demos to production / Ex-data-scientist, fully agent-pilled / Shipping from sunny Tampa" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=440&lines=Building+AI+agents+%F0%9F%A4%96;Taking+demos+%E2%86%92+production+%F0%9F%9A%A2;Ex-data-scientist%2C+fully+agent-pilled;Now+shipping+from+Houston+%F0%9F%A4%A0" alt="Typing animation: Building AI agents / Taking demos to production / Ex-data-scientist, fully agent-pilled / Now shipping from Houston" />
 
 </div>
 
@@ -38,6 +38,6 @@ I build with LLMs and AI agents — and I like being the person who takes them f
 
 [![LinkedIn](https://img.shields.io/badge/Say_hi_on_LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/nse1994/)
 
-*Always up to talk agents, AI deployments, or Tampa food recs.* 🌴
+*Always up to talk agents, AI deployments, or Houston food recs.* 🌮
 
 </div>
