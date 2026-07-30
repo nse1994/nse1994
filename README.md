@@ -6,11 +6,11 @@
 
 </div>
 
-I build with LLMs and AI agents — and I like being the person who takes them from "cool demo" to something a team actually uses. Forward-deployed engineer energy: sit with the people who have the problem, ship the AI thing that solves it, repeat.
+I build with LLMs and AI agents, focused on turning proof-of-concept work into systems teams actually rely on. I operate in a forward-deployed capacity: embedding with the people who own the problem, then shipping the solution alongside them.
 
-- 🤖 Agents & LLM-powered tools
-- 🚢 FDE-style: with customers, in production
-- 🧪 Tinkering with whatever dropped this week
+- 🤖 Building agents and LLM-powered tools
+- 🚢 Forward-deployed engineering: prototype to production, with the team that owns it
+- 🧪 Exploring new models and frameworks as they ship
 
 <br/>
 
@@ -22,17 +22,7 @@ I build with LLMs and AI agents — and I like being the person who takes them f
   <img src="https://raw.githubusercontent.com/nse1994/nse1994/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" />
 </picture>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=nse1994&show_icons=true&hide_border=true&hide_title=true&theme=tokyonight" alt="Nikhil's GitHub stats" />
-
 </div>
-
-<br/>
-
-> "An approximate answer to the right problem is worth a good deal more than an exact answer to an approximate problem." — John Tukey
->
-> (Old data science habit. Still holds up for agents.)
 
 <div align="center">
 
